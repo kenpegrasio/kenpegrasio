@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jansen Ken Pegrasio, an Electrical Engineering undergraduate at the National University of Singapore.<br><br>- 📚 I'm currently learning Computer Vision and Software Engineering<br>- 📖 Won the 6th rank (Silver Medal) in Indonesian NOI 2023<br>- ⚡ In my free time, I like to produce music and learn!<br>
+I'm Jansen Ken Pegrasio, a Computer Engineering undergraduate with a Second Major in Innovation Design Programme (IDP) at the National University of Singapore.<br><br>- 📚 I'm currently learning Software Engineering and Machine Learning<br>- 📖 Won the 6th rank (Silver Medal) in Indonesian NOI 2023<br>- ⚡ In my free time, I like to produce music and explore new things!<br>
 
 
 ## 🌐 Socials:
