@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! I'm Jansen Ken Pegrasio, a Computer Engineering undergraduate with a Second Major in Innovation Design Programme (IDP) at the National University of Singapore. Technology has always been very beautiful and fascinating for me, really enthusiastic to learn, share and contribute to society.<br><br>
-🔭 I’m currently working as a Research Assistant in NUS<br>🌱 I’m currently learning Robotics, Software Engineering, Machine Learning, and Computer Vision<br>📖 I've won the 6th rank (Silver Medal) in Indonesian NOI 2023<br>⚡ In my free time, I like to produce music and explore new things!<br>
+🔭 I’m currently working as a Summer Research Assistant Intern in NUS<br>🌱 I’m currently learning Robotics, Software Engineering, Machine Learning, and Computer Vision<br>📖 I've won the 6th rank (Silver Medal) in Indonesian NOI 2023<br>⚡ In my free time, I like to produce music and explore new things!<br>
 
 
 ## 🌐 Socials:
