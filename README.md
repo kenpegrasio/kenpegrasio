@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi! I'm Jansen Ken Pegrasio, a Computer Engineering undergraduate at the National University of Singapore. Technology has always been very beautiful and fascinating for me, really enthusiastic to learn, share and contribute to society.<br><br>
-🔭 I’m currently working as a Software Engineering Intern at Unravel Carbon<br>🌱 I’m deeply passionate in learning Operating System, Computer Networks, Parallel Computing, and Database Systems<br>📖 I've won the 6th rank (Silver Medal) in Indonesian NOI 2023<br>⚡ In my free time, I like to listen and play music and explore new things!<br>
+Hi! I'm Jansen Ken Pegrasio, a Computer Engineering undergraduate at the National University of Singapore. Technology has always made me fascinated every day! I hope that one day I can be part of the global team to create new technology that can make human's life easier and happier! <br><br>
+🔭 I’m currently working as a Software Engineering Intern at Unravel Carbon<br>🌱 I’m deeply passionate in learning how technology works<br>⚡ I also like to listen and play music sometimes!<br>
 
 
 ## 🌐 Socials:
